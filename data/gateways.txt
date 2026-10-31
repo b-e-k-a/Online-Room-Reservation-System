@@ -1,0 +1,3 @@
+CBE|CBEGateway|true
+Telebirr|TelebirrGateway|true
+Awash Bank|AwashGateway|true

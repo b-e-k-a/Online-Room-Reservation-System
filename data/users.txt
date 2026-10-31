@@ -1,0 +1,4 @@
+A0001|admin|e86f78a8a3caf0b60d8e74e5942aa6d86dc150cd3c03338aef25b7d2d7e3acc7|admin@hotel.com|ADMIN
+C0002|beka|3a731bc9bc98723cec6c2cc196dc2879b3073de43feb311d1600c81594a10e72|beka@gmail.com|CUSTOMER
+C0003|akrm|3c1ae5b675aad7d2dcbaeb8f3b4a1febeffb6f1dea012bb76735bbac9ec644e2|akrm@gmail.com|CUSTOMER
+M0004|kamil|a5b9ee043b8fa6ad375e8e98d9132b5055676bde3652722098d3ae24177c2ffc|kamil@gmail.com|MANAGER
